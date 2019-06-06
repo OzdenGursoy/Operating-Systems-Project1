@@ -1,5 +1,8 @@
 # COMP304-Project1
 
+This is an assignment given in COMP304 course in Koç University. 
+This code is implemented by Özden Gürsoy & Zahit Başyiğit.
+
 We implemented shelldon with two types of execution where one is linux commands(in /bin/) and 
 the other is executing files in the current path(project path). We check if the command is in a 
 predefined list of commands (user files) otherwise we assume it is a linux command and run it. 
